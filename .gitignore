@@ -1,0 +1,10 @@
+# Private keys and connection files — never commit these
+*.pem
+*.ppk
+*.key
+*.rdp
+.remmina
+
+# OS clutter
+.DS_Store
+Thumbs.db
